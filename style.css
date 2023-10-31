@@ -5,11 +5,13 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: rgb(241, 238, 238);
 }
 
 :root {
   --textc: #202020;
-  --bgc: rgb(252, 241, 241);
+  /* --bgc: rgb(252, 241, 241); */
+  --bgc: white;
   --height: 535px;
   --widht: 325px;
 }
